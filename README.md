@@ -22,7 +22,8 @@ Contains API related to creating a new USER and API end point to get this USER
 Rest :
 
 
-```http
+```
+http
   GET /users
 
 ```
