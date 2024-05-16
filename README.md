@@ -1,11 +1,11 @@
-# <span style="color:#003366">Project MicroService</span>
+# <span class="blue-heading">Project MicroService</span>
 
 This project is a simple skeleton code for microservice architecture pattern using nodejs , postgres , prisma , Rest , GraphQL.
 
 ![image!](archi.png)
 
 
-# <span style="color:#003366">PTechnologies</span>
+# <span style="color:#003366">Technologies</span>
 gRPC: Used for efficient communication between microservices.
 
 
