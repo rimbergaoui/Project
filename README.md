@@ -15,9 +15,9 @@ This project is a simple skeleton code for microservice architecture pattern usi
 * REST: RESTful APIs are used for exposing the services to external clients.
 
 
-# <span style="color:#003366">USER MICROSERVICE</span>
+# <span style="color:#003366">User MicroService/span>
 
-Contains API related to creating A new USER and API end point to get this USER
+Contains API related to creating a new USER and API end point to get this USER
 
 Rest :
 
