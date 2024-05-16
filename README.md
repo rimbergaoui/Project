@@ -1,4 +1,4 @@
-# <font color="#003366">Project MicroService</font>
+# <font color="blue">Project MicroService</font>
 
 This project is a simple skeleton code for microservice architecture pattern using nodejs , postgres , prisma , Rest , GraphQL.
 
