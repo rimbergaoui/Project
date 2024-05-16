@@ -1,5 +1,4 @@
 # Project MicroService
-$${\color{red}Red}$$
 
 This project is a simple skeleton code for microservice architecture pattern using Node.js , PostgreSQL , Prisma , Rest , GraphQL.
 
