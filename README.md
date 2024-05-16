@@ -19,31 +19,11 @@ This project is a simple skeleton code for microservice architecture pattern usi
 
 Contains API related to creating a new USER and API end point to get this USER
 
-Rest :
+- Rest :
 
 
 ```http
-GET /users
-```
-
-GraphQL :
-
-
-```graphql
-query {
-   users {
-    id
-    name
-    prenom
-  }
-}
-```
-
-Rest :
-
-
-```http
-  POST /user
+POST /user
 ```
 
 | Parameter   | Type     | Description                       |
@@ -69,6 +49,28 @@ variable
 }
 
 ```
+
+- Rest :
+
+
+```http
+GET /users
+```
+
+- GraphQL :
+
+
+```graphql
+query {
+   users {
+    id
+    name
+    prenom
+  }
+}
+```
+
+
 
 # Order MicroService
 
