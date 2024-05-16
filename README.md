@@ -1,7 +1,6 @@
 # microservice_project
 
-this project is a simple skeleton code for microservice architecture pattern using nodejs , postgres , prisma , Rest , GraphQL
-Thanks to MR Gontara Salah which has inspired and given really good knowledge for setting up this project.
+this project is a simple skeleton code for microservice architecture pattern using nodejs , postgres , prisma , Rest , GraphQL.
 
 ![image!](Diagram1.jpg)
 
@@ -145,9 +144,9 @@ postgres
 
 Clone the repo and install the dependencies.
 
-git clone https://github.com/sofiene-chouchen/microservice_project.git
+git clone https://github.com/rimbergaoui/Project.git
 
-`cd microserviceProject`
+`cd Project`
 
 `npm install`
 
