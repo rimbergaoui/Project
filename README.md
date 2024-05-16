@@ -7,13 +7,13 @@ This project is a simple skeleton code for microservice architecture pattern usi
 
 # Technologies
 
-* gRPC: Used for efficient communication between microservices.
+* **gRPC** : Used for efficient communication between microservices.
 
 
-* GraphQL: Implemented for flexible and efficient querying of data.
+* **GraphQL** : Implemented for flexible and efficient querying of data.
 
 
-* REST: RESTful APIs are used for exposing the services to external clients.
+* **REST**: RESTful APIs are used for exposing the services to external clients.
 
 
 # User MicroService
@@ -135,7 +135,7 @@ query {
 
 # Requirements
 
-Ensure you have the following software installed on your local machine:
+**Ensure you have the following software installed on your local machine** :
 
 git
 
