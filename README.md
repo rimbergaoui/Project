@@ -1,6 +1,6 @@
 # <font color="blue">Project MicroService</font>
 
-This project is a simple skeleton code for microservice architecture pattern using nodejs , postgres , prisma , Rest , GraphQL.
+This project is a simple skeleton code for microservice architecture pattern using Node.js , PostgreSQL , Prisma , Rest , GraphQL.
 
 ![image!](archi.png)
 
