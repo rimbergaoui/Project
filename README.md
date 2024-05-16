@@ -23,9 +23,9 @@ Rest :
 
 
 ```http
-  GET /users
-
+GET /users
 ```
+
 GraphQL :
 
 
