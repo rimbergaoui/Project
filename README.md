@@ -6,6 +6,7 @@ This project is a simple skeleton code for microservice architecture pattern usi
 
 
 # Technologies
+
 * gRPC: Used for efficient communication between microservices.
 
 
@@ -31,7 +32,7 @@ POST /user
 | `name`      | `string` | **Required**.                     |
 | `prenom`    | `string` | **Required**.                     |
 
-GraphQL :
+- GraphQL :
 
 ```graphql
 mutation Mutation($name: String!, $prenom: String!) {
@@ -76,27 +77,7 @@ query {
 
 Contains API related to creating a new ORDER and API end point to get this ORDER
 
-
-Rest :
-
-
-```http
-  GET /orders
-```
-
-GraphQL :
-
-
-```graphql
-query {
-   orders {
-    id
-    name
-    description
-  }
-}
-```
-Rest :
+- Rest :
 
 
 ```http
@@ -109,7 +90,7 @@ Rest :
 | `description`    | `string` | **Required**.                     |
 
 
-GraphQL :
+- GraphQL :
 
 
 ```graphql
@@ -130,17 +111,39 @@ variable
 }
 ```
 
+
+- Rest :
+
+
+```http
+GET /orders
+```
+
+- GraphQL :
+
+
+```graphql
+query {
+   orders {
+    id
+    name
+    description
+  }
+}
+```
+
+
 # Requirements
 
 Ensure you have the following software installed on your local machine:
 
 git
 
-Node.js (version 12 or higher)
+Node.js (version 18 or higher)
 
 npm (version 6 or higher)
 
-postgres
+PostgeeSQL
 
 # Common setup
 
