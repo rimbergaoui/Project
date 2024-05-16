@@ -1,11 +1,11 @@
-# Project MicroService
+# <span style="color:#003366">Project MicroService</span>
 
-this project is a simple skeleton code for microservice architecture pattern using nodejs , postgres , prisma , Rest , GraphQL.
+This project is a simple skeleton code for microservice architecture pattern using nodejs , postgres , prisma , Rest , GraphQL.
 
 ![image!](archi.png)
 
 
-# Technologies
+# <span style="color:#003366">PTechnologies</span>
 gRPC: Used for efficient communication between microservices.
 
 
@@ -15,7 +15,7 @@ GraphQL: Implemented for flexible and efficient querying of data.
 REST: RESTful APIs are used for exposing the services to external clients.
 
 
-# USER MICROSERVICE
+# <span style="color:#003366">USER MICROSERVICE</span>
 
 Contains API related to creating A new USER and API end point to get this USER
 
@@ -70,7 +70,7 @@ variable
 
 ```
 
-# ORDER MICROSERVICE
+# <span style="color:#003366">ORDER MICROSERVICE</span>
 
 Contains API related to creating A new ORDER and API end point to get this ORDER
 
@@ -128,7 +128,7 @@ variable
 }
 ```
 
-# Requirements
+# <span style="color:#003366">Requirements</span>
 
 Ensure you have the following software installed on your local machine:
 
@@ -140,7 +140,7 @@ npm (version 6 or higher)
 
 postgres
 
-# Common setup
+# <span style="color:#003366">Common setup</span>
 
 Clone the repo and install the dependencies.
 
@@ -150,7 +150,7 @@ git clone https://github.com/rimbergaoui/Project.git
 
 `npm install`
 
-# Run
+# <span style="color:#003366">Run</span>
 
 To start the ApiGateway server, run the following
 
