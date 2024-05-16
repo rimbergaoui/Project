@@ -1,4 +1,4 @@
-# <span class="blue-heading">Project MicroService</span>
+# Project MicroService {color:#003366}
 
 This project is a simple skeleton code for microservice architecture pattern using nodejs , postgres , prisma , Rest , GraphQL.
 
