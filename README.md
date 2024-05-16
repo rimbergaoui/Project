@@ -81,7 +81,7 @@ Contains API related to creating a new ORDER and API end point to get this ORDER
 
 
 ```http
-  POST /orders
+POST /orders
 ```
 
 | Parameter        | Type     | Description                       |
